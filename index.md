@@ -3,7 +3,7 @@
         <link rel='stylesheet' type='text/css' href='./stylesheets/style.css'>
     </head>
     <body>
-        <h1 style='font-family: Comic Sans MS; color: blue;'>My repositories: </h1>
+        <h1>My repositories: </h1>
         <p>i-am-learning-csharp: <a href='https://github.com/DisorientedCrocodile/i-am-learning-csharp'>here</a></p>
         <p>Whackamole: <a href='https://github.com/DisorientedCrocodile/WhackAMole'>here</a></p>
         <p>my-platformer: <a href='https://github.com/DisorientedCrocodile/my-platformer'>here</a></p>

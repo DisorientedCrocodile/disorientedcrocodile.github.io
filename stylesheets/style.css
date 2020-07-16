@@ -1,8 +1,15 @@
+h1{
+    font-family: 'Comic Sans MS';
+    color: #b5e853;
+    text-align: center;
+}
 p {
     font-family: 'Comic Sans MS';
-    color: blue;
+    color: #b5e853;
+    text-align: center;
 }
 a {
     font-family: 'Comic Sans MS';
-    color: red;
+    color: #b5e853;
+    text-align: center;
 }
