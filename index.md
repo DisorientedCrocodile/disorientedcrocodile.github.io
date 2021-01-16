@@ -12,5 +12,6 @@
         <p>tkinter-money-tracker: <a href='https://github.com/DisorientedCrocodile/tkinter-money-tracker'>here</a></p>
         <p>simple-list: <a href='https://github.com/DisorientedCrocodile/simple-list'>here</a></p>
         <p>i-am-learning-java: <a href='https://github.com/DisorientedCrocodile/i-am-learning-java'>here</a></p>
+        <p>OrientedCrocodile: <a href='https://github.com/DisorientedCrocodile/OrientedCrocodile'>here</a></p>
     </body>
 </html>
