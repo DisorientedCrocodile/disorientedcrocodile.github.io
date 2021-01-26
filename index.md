@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1>My first ever useful project</h1>
-        <p>my-project-manager: <b><a href="disorientedcrocodile.github.io/my-project-manager/">check it out</a></b></p>
+        <p>my-project-manager: <b><a href="https://disorientedcrocodile.github.io/my-project-manager">check it out</a></b></p>
         <hr></hr>
         <h1>My other repositories: </h1>
         <p>i-am-learning-csharp: <a href='https://github.com/DisorientedCrocodile/i-am-learning-csharp'>here</a></p>
